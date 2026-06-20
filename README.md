@@ -132,8 +132,6 @@ Sales performance varied significantly across states, helping identify high-perf
 
 ### Main Dashboard
 
-(Add Screenshot Here)
-
 ---
 
 ## Project Outcome
