@@ -142,6 +142,9 @@ Developed a dynamic Power BI dashboard that enables stakeholders to monitor sale
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 ## Author
 
 Aanya Nagaria
